@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/if2OjUO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://imgur.com/a/if2OjUO)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS

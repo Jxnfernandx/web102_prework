@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![](https://imgur.com/a/codepath-submission-if2OjUO)
+![](./assets/work.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS

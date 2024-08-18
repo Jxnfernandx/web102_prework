@@ -3,10 +3,16 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    display: flex;
+    flex-direction: column;
 }
 
 #tentacles {
     width: 50px;
+}
+
+h2, p, #description-container {
+    align-self: center;
 }
 
 .header {
@@ -21,6 +27,8 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
 }
 
 .stats-card {
@@ -60,6 +68,14 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+}
+.name {
+    font-weight: bold;
+}
+
+.description {
+    font-weight: lighter;
+    font-size: small;
 }
 
 #button-container {
